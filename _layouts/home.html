@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+	
+  <h1 class="page-heading">设计与生活足迹</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%y-%m-%d %H:%M:%S" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+		
+		<img src="{{ post.urlpic }}" width="745px" height="300px">
+        
+		<br>
+		<br>
+		<hr style="height:0.3px;border:none;border-top:1px solid #E4E4E4;" />
+	  </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">微信 · 升谦道 <a href="{{ "#" | relative_url }}">1348224955</a></p>
+
+</div>
