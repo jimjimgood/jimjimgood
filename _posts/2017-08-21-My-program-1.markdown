@@ -7,9 +7,7 @@ urlpic: http://ys-f.ys168.com/563091612/m5K5S3K6I2VNWIklmpoe/项目1%20-%20网�
 ---
 
 ```html
-<div>
 声明：以下实际案例，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！
-</div>
 ```
 
 ![pic](http://ys-f.ys168.com/563091638/q6K2V4J2GLLNG4lmnnlj/首页.jpg)
