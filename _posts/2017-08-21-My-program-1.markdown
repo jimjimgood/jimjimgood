@@ -6,9 +6,9 @@ categories: jekyll update
 urlpic: http://ys-f.ys168.com/563091612/m5K5S3K6I2VNWIklmpoe/项目1%20-%20网页封面图.jpg
 ---
 
-```html
-声明：以下实际案例，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！
-```
+
+` tips ：以下实际案例，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
+
 
 ![pic](http://ys-f.ys168.com/563091638/q6K2V4J2GLLNG4lmnnlj/首页.jpg)
 
@@ -25,8 +25,11 @@ urlpic: http://ys-f.ys168.com/563091612/m5K5S3K6I2VNWIklmpoe/项目1%20-%20网�
 ![pic](http://ys-f.ys168.com/563091634/n6I2X6H3IILL5Mlmnnlj/Dm展示2%20效果图.jpg)
 
 ![pic](http://ys-f.ys168.com/563091637/lmnnljr7M3T5H6FHMP6T/端架牌加跳跳卡.jpg)
+
 ![pic](http://ys-f.ys168.com/563091640/p4J4U6F3KKJMI6kojopi/优惠券%20效果图.jpg)
+
 ![pic](http://ys-f.ys168.com/563091637/lmnnljr7M3T5H6FHMP6K/抽奖券%20效果展示%20.jpg)
+
 ![pic](http://ys-f.ys168.com/563091636/l3N5U3I4JGIQ8Klmnnlj/抽奖券%20飘落效果展示%20.jpg)
 
 ![pic](http://ys-f.ys168.com/563091640/p4J4U6F3KKJMIHkojopi/整套文宣%20-%20角度1.jpg)
