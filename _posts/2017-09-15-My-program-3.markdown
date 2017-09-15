@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "【项目案例】H5微场景页面设计"
+date:   2017-09-15 00:00:00 +0800
+categories: jekyll update
+urlpic: http://ys-f.ys168.com/563091624/n6I2X6I344JLINjnlrkf/项目2%20-%20网页封面图.jpg
+---
+
+
+` tips ：以下实际案例，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
+
+
+![pic](http://ys-g.ys168.com/563091633/lmnnljl4M1T7K4G5LPHI/a1.jpg)
+![pic](http://ys-g.ys168.com/563091633/lmnnljl4M1T7K4G5LPHJ/a2.jpg)
+![pic](http://ys-g.ys168.com/563091633/lmnnljl4M1T7K4G5LPHK/a3.jpg)
+![pic](http://ys-g.ys168.com/563091656/g3N5U3J4J4KQNJmkksog/a4.jpg)
+
+
+
+
+
