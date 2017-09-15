@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "“感恩大回馈”时段促销项目"
+title:  "【项目案例】“感恩大回馈”时段促销项目"
 date:   2017-09-15 00:00:00 +0800
 categories: jekyll update
 urlpic: http://ys-f.ys168.com/563091612/m5K5S3K6I2VNWIklmpoe/项目1%20-%20网页封面图.jpg
