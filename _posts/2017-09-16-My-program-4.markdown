@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "【项目案例】电商C店装修案例（显示器类目）"
+date:   2017-09-16 00:00:00 +0800
+categories: jekyll update
+urlpic: http://ys-g.ys168.com/563091619/klmpoem4J4U6H37J3MV4/项目4-网页封面图.jpg
+---
+
+
+` tips ：以下实际案例均是本人创作，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
+
+
+![pic](http://ys-g.ys168.com/563091616/g3N5U3K46F2QNUklmpoe/a1.jpg)
+
+![pic](http://ys-g.ys168.com/563091619/TTiJjfk3L3W2I76H2OU5/a2.jpg)
+
+
