@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【网页推文案例】技能考试手机app功能介绍"
-date:   2017-09-17 00:00:00 +0800
+date:   2017-09-15 00:00:00 +0800
 categories: jekyll update
 urlpic: http://ys-f.ys168.com/563091683/nolongt4M1T864J4N7S/手机app功能介绍%20-%20网页封面图.jpg
 ---
