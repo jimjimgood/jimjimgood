@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【物料设计案例】三折页物料设计展示"
+title:  "【封面设计】封面设计展示"
 date:   2017-09-14 00:20:00 +0800
 categories: jekyll update
 urlpic: http://ys-g.ys168.com/563091619/klmpoem4J4U7449KLM6H/书籍封面设计%20-%20网页封面图.jpg
