@@ -3,10 +3,10 @@ layout: post
 title:  "【网页推文案例】技能考试手机app功能介绍"
 date:   2017-09-14 00:00:00 +0800
 categories: jekyll update
-urlpic: http://ys-f.ys168.com/563091683/nolongt4M1T864J4N7S/手机app功能介绍%20-%20网页封面图.jpg
+urlpic: http://ys-i.cccpan.com/563091620/p4J536S387NJ4jnlrkf/手机app功能介绍%20-%20网页封面图.jpg
 ---
 
 
 ` tips ：以下实际案例均是本人创作，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
 
-![pic](http://ys-f.ys168.com/563091633/lmnnljt4M1T864IJKP2T/手机app功能介绍.jpg)
+![pic](http://ys-i.cccpan.com/563091611/klmpoeo3L452T7755OKK/微信-执药在线阅读.jpg)
