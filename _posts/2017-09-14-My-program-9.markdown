@@ -3,13 +3,13 @@ layout: post
 title:  "【封面设计】封面设计展示"
 date:   2017-09-14 00:20:00 +0800
 categories: jekyll update
-urlpic: http://ys-g.ys168.com/563091619/klmpoem4J4U7449KLM6H/书籍封面设计%20-%20网页封面图.jpg
+urlpic: http://imglf5.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VncVg5Y2R6ZnpFbzlrLzlqMkhoT2UxelRNbTgrZ3d6dWVBPT0.jpg
 ---
 
 
 ` tips ：以下实际案例均是本人创作，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
 
-![pic](http://ys-g.ys168.com/563091635/lmnnljm2J6W5566KJM8K/封面展示%201.jpg)
-![pic](http://ys-g.ys168.com/563091650/k4J4U7449KLM6Jmkksog/封面展示%202.jpg)
-![pic](http://ys-g.ys168.com/563091612/h5K5S4976HVN7Iklmpoe/封面展示%203.jpg)
+![pic](http://imglf3.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VnajYwVnpYMldvOFZqVkNJdjdOcGhIc0RIMlo4MUVZTWpnPT0.jpg)
+![pic](http://imglf6.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VncGVBYThNbHlIOVJTQktIeFhkaFdBcWpSWkdDZjU3NUN3PT0.jpg)
+![pic](http://imglf5.nosdn.127.net/img/RHMxd2FkeXp5UDNKblJRY1NDQ1VncHhCcnlpQzlxbmNwaGJtdWg1Um5SOWpHMERYM285T0p3PT0.jpg)
 
