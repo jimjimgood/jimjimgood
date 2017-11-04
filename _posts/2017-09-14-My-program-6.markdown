@@ -3,10 +3,10 @@ layout: post
 title:  "【网页推文案例】语音笔记功能介绍"
 date:   2017-09-14 00:00:00 +0800
 categories: jekyll update
-urlpic: http://ys-i.cccpan.com/563091621/jnlrkfo3L452T775ML4/语音笔记功能介绍%20-%20网页封面图.jpg
+urlpic: http://imglf3.nosdn.127.net/img/RHMxd2FkeXp5UDBXQ0RmRnNlOVNydWtyOEFKWTUwTEZvZEkxUTRuOHhkTjVzeDkzeFU1V3dBPT0.jpg
 ---
 
 
 ` tips ：以下实际案例均是本人创作，仅用于面试展示，不作其它用途，未经本人同意，请勿传播。谢谢谅解！`
 
-![pic](http://ys-i.cccpan.com/563091612/m5K613X6547NMHklmpoe/语音笔记功能介绍.jpg)
+![pic](http://imglf6.nosdn.127.net/img/RHMxd2FkeXp5UDBXQ0RmRnNlOVNycCtlSlFrbWxYTzJ2TFNvdk9xbEg4MFpCZjFEKzEyVWJnPT0.jpg)
