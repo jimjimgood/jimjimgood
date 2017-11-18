@@ -1,12 +1,11 @@
 ---
 title:  "目录"
-categories: jekyll update
 ---
  
  # 基础文化
 > 成熟的设计，一定的文化基础是必要的，
 以下是作者摘录的一些有意思的东西，也是希望积少成多、对生活和设计有所帮助
--  [【文化】莫高霞光 · 动画短篇](http://mp.weixin.qq.com/s/UfksKAi1Ye9rmfSlPfb1Pw)
+- [【文化】莫高霞光 · 动画短篇](http://mp.weixin.qq.com/s/UfksKAi1Ye9rmfSlPfb1Pw)
 - [【文化】夏蟲國 · 动画短篇](http://mp.weixin.qq.com/s/NgfF2c5qPnCOLEbYHGshsA)
 - 
 
@@ -14,7 +13,7 @@ categories: jekyll update
 
 
  # 有意思
- > 收录一些有意思的东西
+> 收录一些有意思的东西
 -  [【遗忘】敦煌 · 电影](https://mp.weixin.qq.com/s/FDH28zcjok9BramJ7gTtvg)
 - 
 - 
@@ -22,7 +21,7 @@ categories: jekyll update
 
 
  # 设计练习与心得
- > 平时做的设计练习，包括一些心得和总结
+> 平时做的设计练习，包括一些心得和总结
 -  
 - 
 - 
