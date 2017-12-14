@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【物料设计案例】电商C店装修案例（显示器类目）"
+title:  "【物料设计案例】时段Dm物料设计展示"
 date:   2017-10-17 00:00:00 +0800
 categories: jekyll update
 urlpic: http://s10.sinaimg.cn/orignal/002ysGSezy7gzxlANKhc9
@@ -12,6 +12,10 @@ urlpic: http://s10.sinaimg.cn/orignal/002ysGSezy7gzxlANKhc9
 ![pic](http://album.sina.com.cn/pic/002ysGSezy7guWsZpcZa1)
 
 ![pic](http://album.sina.com.cn/pic/002ysGSezy7guWt2Dpibc)
+
+![pic](http://s5.sinaimg.cn/orignal/002ysGSezy7gzzdDVOY34)
+
+![pic](http://s5.sinaimg.cn/orignal/002ysGSezy7gzzdJHIU54)
 
 ![pic](http://album.sina.com.cn/pic/002ysGSezy7guWt6L1xfb)
 
